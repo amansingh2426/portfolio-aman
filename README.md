@@ -1,12 +1,12 @@
 # Full-Stack 3D Developer Portfolio 🌐🚀
 
-![Portfolio Preview](https://portfolio-aman-chi.vercel.app/og-image.jpg)
+Live Demo: 🔗 [portfolio-aman-chi.vercel.app](https://portfolio-aman-chi.vercel.app)
 ![image](https://github.com/user-attachments/assets/efbea771-ee57-4fe7-af9f-e42290364af7)
 
 
 A stunning 3D developer portfolio built with **React**, **Three.js**, **TailwindCSS**, and **Framer Motion**, showcasing projects, skills, experience, and contact information — all in an immersive 3D environment.
 
-Live Demo: 🔗 [portfolio-aman-chi.vercel.app](https://portfolio-aman-chi.vercel.app)
+
 
 ---
 
